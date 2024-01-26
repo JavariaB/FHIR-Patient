@@ -31,4 +31,4 @@ Now run the app and enjoy exploring it.
 Thank you.
 
 P.s. For DOMINIK BOHLER ONLY.......  
-I am still not sure if you can access my codespaces as a guest. So to be on safe side I sent you invite to be a collaborator. :)
+I am still not sure if you can access my codespaces as a guest. So to be on safe side I sent you invite to be a collaborator or may be you can create a new codespaces in my repo. :)
