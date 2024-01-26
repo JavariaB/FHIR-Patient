@@ -8,10 +8,10 @@
       </nav>
     </div>
     <div class="container mt-5 p-3">
-      <button class="btn btn-outline-info rounded-pill" @click="fetchPatients">
+      <button class="btn btn-outline-info rounded-pill mx-2" @click="fetchPatients">
         Fetch Patients
       </button>
-       <a class="btn btn-outline-info rounded-pill" href="#register_patient">
+       <a class="btn btn-outline-success rounded-pill  mx-2" href="#register_patient">
         Register Patient
       </a>
       <div class="row">
@@ -146,7 +146,7 @@ export default {
         count: count,
       }));
 
-      var svgWidth = 600,
+      var svgWidth = 500,
         svgHeight = 400;
       var margin = { top: 20, right: 20, bottom: 30, left: 50 };
       var width = svgWidth - margin.left - margin.right;
