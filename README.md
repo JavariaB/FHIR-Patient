@@ -11,6 +11,10 @@ To start and run the project please follow following instructions.
 Open codespaces via following link       
 https://scaling-garbanzo-9r7p7ww549p2774p.github.dev/
 
+Or 
+
+Create a new codespaces on my repo.
+
 
 Open a terminal and run the following command:       
 npm run start
@@ -27,4 +31,4 @@ Now run the app and enjoy exploring it.
 Thank you.
 
 P.s. For DOMINIK BOHLER ONLY.......  
-I am still not sure if you can access my codespaces as a guest. So to be on safe side I sent you invite to be a collaborator or may be you can create a new codespaces in my repo. :)
+I am still not sure if you can access my codespaces as a guest. So to be on safe side I sent you invite to be a collaborator. :)
