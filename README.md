@@ -15,12 +15,17 @@ or
 
 access it from the repository after forking.
 
-Start a terminal and run the following command:       
+
+Open a terminal and run the following command:       
 npm run start
 
-Start another terminal and run the following two commands
-cd fhir_wed_app_frontend
+Open another terminal and run the following two commands:
+
+cd fhir_web_app_frontend
+
 serve -s dist
+
+
 
 Now run the app and enjoy exploring it.
 Thank you.
