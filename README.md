@@ -11,10 +11,6 @@ To start and run the project please follow following instructions.
 Open codespaces via following link       
 https://scaling-garbanzo-9r7p7ww549p2774p.github.dev/
 
-or
-
-access it from the repository after forking.
-
 
 Open a terminal and run the following command:       
 npm run start
